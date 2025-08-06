@@ -1,0 +1,626 @@
+[
+  {
+    "name": "기묘한이야기",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "players": "4~10"
+  },
+  {
+    "name": "노터치크라켄",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "players": "4~8"
+  },
+  {
+    "name": "누가치즈를훔쳤을까",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "players": "4~8"
+  },
+  {
+    "name": "디셉션",
+    "minPlayers": 4,
+    "maxPlayers": 14,
+    "players": "4~14"
+  },
+  {
+    "name": "범인은춤춘다",
+    "minPlayers": 3,
+    "maxPlayers": 9,
+    "players": "3~9"
+  },
+  {
+    "name": "뱅",
+    "minPlayers": 4,
+    "maxPlayers": 7,
+    "players": "4~7"
+  },
+  {
+    "name": "사보타지",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "players": "3~10"
+  },
+  {
+    "name": "사보타지 20주년기념판",
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "players": "2~12"
+  },
+  {
+    "name": "아발론",
+    "minPlayers": 5,
+    "maxPlayers": 10,
+    "players": "5~10"
+  },
+  {
+    "name": "죄수들의밤",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "카멜레온",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "players": "3~8"
+  },
+  {
+    "name": "피드더크라켄",
+    "minPlayers": 5,
+    "maxPlayers": 11,
+    "players": "5~11"
+  },
+  {
+    "name": "한밤의늑대인간",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "players": "3~10"
+  },
+  {
+    "name": "한밤의수수께끼",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "players": "4~10"
+  },
+  {
+    "name": "갱스터",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "더게임",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "players": "1~5"
+  },
+  {
+    "name": "더마인드",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "데드오브윈터",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "디스크커버",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "players": "3~8"
+  },
+  {
+    "name": "딥씨크루",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "레벨10",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "players": "1~5"
+  },
+  {
+    "name": "마인크래프트 익스플로러",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4"
+  },
+  {
+    "name": "미크로마크로",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4+"
+  },
+  {
+    "name": "매직메이즈",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "players": "1~8"
+  },
+  {
+    "name": "반디다",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4"
+  },
+  {
+    "name": "반디도",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4"
+  },
+  {
+    "name": "반지원정대",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4"
+  },
+  {
+    "name": "보난자 25주년기념판",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "players": "2~7"
+  },
+  {
+    "name": "봄버스터즈",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "players": "1~5"
+  },
+  {
+    "name": "스페이스크루",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "스페이스퍼즐",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "스테레오마인드",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "아컴호러 카드게임",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4"
+  },
+  {
+    "name": "우드랜드의탐험가",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4"
+  },
+  {
+    "name": "이게왜오리너구리",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "players": "3~10+"
+  },
+  {
+    "name": "전지적추리시점",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "주문이너무많아",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "카울리언",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "카이트",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "카훗",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "키친러시",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4"
+  },
+  {
+    "name": "팀3 그린",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "팀3 핑크",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "코드네임",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "players": "2~8"
+  },
+  {
+    "name": "하나비",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "궁신",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "그것이문제로다",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "갱오브다이스",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "꼬치의달인",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "나를맞혀줘",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "players": "3~10"
+  },
+  {
+    "name": "놀러와요동물서커스",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "늑대인간마을의축제",
+    "minPlayers": 7,
+    "maxPlayers": 8,
+    "players": "7~8"
+  },
+  {
+    "name": "다크호스 10주년기념판",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "달무티",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "players": "4~8+"
+  },
+  {
+    "name": "덤불속 신판",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "도미니언",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "도블 미니언즈",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "players": "2~8+"
+  },
+  {
+    "name": "드렉사우딜럭스",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "딕싯",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "players": "3~8"
+  },
+  {
+    "name": "라스베가스",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "러브레터",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "마법사와움직이는탑",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "맘마미아",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "모우",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "players": "2~10+"
+  },
+  {
+    "name": "매직만달라",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "미스터리스케치",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "미니빌",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "바보타임",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "players": "3~8"
+  },
+  {
+    "name": "바퀴벌레포커로얄",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6+"
+  },
+  {
+    "name": "배럴다이스",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "살아남아라포션파티",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "players": "4~10"
+  },
+  {
+    "name": "서펜티나",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5+"
+  },
+  {
+    "name": "선물입니다익스트림",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "수상한생선들",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "players": "4~8"
+  },
+  {
+    "name": "스파이폴2",
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "players": "3~12"
+  },
+  {
+    "name": "스컬킹",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "players": "2~8"
+  },
+  {
+    "name": "스플렌더",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "시퀀스",
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "players": "2~12"
+  },
+  {
+    "name": "셀레스티아",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "아브라카왓",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "아임더보스",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  },
+  {
+    "name": "요리의달인",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "players": "3~5"
+  },
+  {
+    "name": "요트다이스",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "players": "1~4+"
+  },
+  {
+    "name": "익스플로딩키튼",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "애니모크레이지",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "players": "4~10"
+  },
+  {
+    "name": "젝스님트",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "players": "2~10"
+  },
+  {
+    "name": "카르카손",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "커피러시",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "쿠키박스",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "코요테",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "players": "3~10"
+  },
+  {
+    "name": "콘셉트",
+    "minPlayers": 4,
+    "maxPlayers": 12,
+    "players": "4~12"
+  },
+  {
+    "name": "퀘스천카드 클래식",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "players": "1~6"
+  },
+  {
+    "name": "타코캣치즈피자",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "players": "2~8"
+  },
+  {
+    "name": "퍼스트콘택트",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "players": "2~7"
+  },
+  {
+    "name": "페이퍼사파리",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "players": "2~5"
+  },
+  {
+    "name": "펭귄파티",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "펭귄얼음깨기",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "하베스트",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "players": "1~6"
+  },
+  {
+    "name": "할리갈리",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "할리갈리컵스딜럭스",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "players": "2~4"
+  },
+  {
+    "name": "흔들흔들피자토핑",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "players": "2~10+"
+  },
+  {
+    "name": "핸즈업",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "players": "3~8"
+  },
+  {
+    "name": "13클루",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "players": "2~6"
+  },
+  {
+    "name": "찐데신",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "players": "3~6"
+  }
+]
