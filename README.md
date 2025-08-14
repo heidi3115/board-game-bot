@@ -51,6 +51,7 @@
 - TypeScript
 - Node.js
 - EC2, pm2 (서버/프로세스 관리)
+- Github Actions 자동배포 (CI/CD)
 - (예정) DB 연동
 
 ## 🗂️ 사용법
